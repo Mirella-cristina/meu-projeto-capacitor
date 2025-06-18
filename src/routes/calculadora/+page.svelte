@@ -12,7 +12,7 @@
 		display += c;
 	}
 
-    function backspace() {
+	function backspace() {
 		display = str.slice(0, -1);
 	}
 </script>
@@ -39,7 +39,6 @@
 					></td
 				>
 
-                
 				<td
 					><button
 						type="button"
